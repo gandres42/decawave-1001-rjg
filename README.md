@@ -1,4 +1,4 @@
-# decawave-1001-rjg
+# decawave-1001-uart
 ## Introduction
 This is a device driver enable use of a Decawave 1001 UWB positioning module over UART.
 
