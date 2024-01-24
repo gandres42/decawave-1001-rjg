@@ -9,8 +9,6 @@ from .messages.dwm_response import DwmResponse
 from .messages.dwm_status_response import DwmStatusResponse
 from .messages.dwm_version_response import DwmVersionResponse
 from .messages.tlv_message import TlvMessage
-from .abstract_interrupt import Interrupt
-from .gpio_interrupt import GPIOInterrupt
 from .decawave_1001 import Decawave1001Driver
 
 name = "decawave_1001_rjg"
