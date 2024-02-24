@@ -1,6 +1,6 @@
 import unittest
 
-from decawave_1001_rjg.messages.dwm_interrupt_config_request import DwmInterruptConfigRequest
+from decawave_1001_uart.messages.dwm_interrupt_config_request import DwmInterruptConfigRequest
 
 
 class DwmInterruptConfigRequestTest(unittest.TestCase):

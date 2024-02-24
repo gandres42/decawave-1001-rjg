@@ -1,6 +1,6 @@
 import unittest
 
-from decawave_1001_rjg.messages.dwm_position_response import DwmPositionResponse
+from decawave_1001_uart.messages.dwm_position_response import DwmPositionResponse
 
 
 class DwmPositionResponseTest(unittest.TestCase):

@@ -1,6 +1,6 @@
 import unittest
 
-from decawave_1001_rjg.messages.dwm_status_response import DwmStatusResponse
+from decawave_1001_uart.messages.dwm_status_response import DwmStatusResponse
 
 
 class TestDwmStatusResponse(unittest.TestCase):

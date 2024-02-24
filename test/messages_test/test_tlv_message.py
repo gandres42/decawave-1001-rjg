@@ -1,6 +1,6 @@
 import unittest
 
-from decawave_1001_rjg.messages.tlv_message import TlvMessage
+from decawave_1001_uart.messages.tlv_message import TlvMessage
 
 
 class TestTlvMessage(unittest.TestCase):

@@ -11,4 +11,4 @@ from .messages.dwm_version_response import DwmVersionResponse
 from .messages.tlv_message import TlvMessage
 from .decawave_1001 import Decawave1001Driver
 
-name = "decawave_1001_rjg"
+name = "decawave_1001_uart"

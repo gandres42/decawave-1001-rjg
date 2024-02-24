@@ -4,14 +4,14 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="decawave-1001-rjg",
+    name="decawave-1001-uart",
     version="1.0",
     author="Richard Gemmell",
     author_email="16683467+Richard-Gemmell@users.noreply.github.com",
     description="A python module to enable a Raspberry Pi to read the Decawave 1001 UWB positioning module.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Richard-Gemmell/decawave-1001-rjg",
+    url="https://github.com/Richard-Gemmell/decawave-1001-uart",
     license="LICENSE.txt",
     packages=setuptools.find_packages(),
     classifiers=[

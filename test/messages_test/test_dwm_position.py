@@ -1,7 +1,7 @@
 import unittest
 
-from decawave_1001_rjg.messages.dwm_position import DwmPosition
-from decawave_1001_rjg.messages.tlv_message import TlvMessage
+from decawave_1001_uart.messages.dwm_position import DwmPosition
+from decawave_1001_uart.messages.tlv_message import TlvMessage
 
 
 class TestDwmPosition(unittest.TestCase):

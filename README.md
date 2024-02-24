@@ -16,4 +16,4 @@ The DWM1001 is available as a development board about the size of a credit card.
 * Requires python 3.7
 
 ## Examples
-Examples are available on [Github](https://github.com/gandres42/decawave-1001-rjg/tree/master/examples).
+Examples are available on [Github](https://github.com/gandres42/decawave-1001-uart/tree/master/examples).

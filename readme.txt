@@ -25,7 +25,7 @@ To test
 Installing in Consuming Environment
 -----------------------------------
 From Live PyPi
-    sudo pip3 install decawave-1001-rjg
+    sudo pip3 install decawave-1001-uart
 
 From Test PyPi
-    sudo pip3 install --index-url https://test.pypi.org/simple/ decawave-1001-rjg
+    sudo pip3 install --index-url https://test.pypi.org/simple/ decawave-1001-uart

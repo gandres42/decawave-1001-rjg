@@ -1,6 +1,6 @@
 import unittest
 
-from decawave_1001_rjg.messages.simple_dwm_request import SimpleDwmRequest
+from decawave_1001_uart.messages.simple_dwm_request import SimpleDwmRequest
 
 
 class SimpleDwmRequestTest(unittest.TestCase):

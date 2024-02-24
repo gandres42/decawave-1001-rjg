@@ -1,6 +1,6 @@
 import unittest
 
-from decawave_1001_rjg.messages.dwm_location_response import DwmLocationResponse
+from decawave_1001_uart.messages.dwm_location_response import DwmLocationResponse
 
 
 class TestDwmLocationResponse(unittest.TestCase):
